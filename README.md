@@ -1,4 +1,3 @@
-```markdown
 # AI-Powered Book Recommender
 
 ## Overview
